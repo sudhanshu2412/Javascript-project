@@ -1,2 +1,2 @@
-# Javascript-project
-All javascript project
+# data-analyst-project
+All data-analyst project
